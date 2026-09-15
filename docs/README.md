@@ -1,4 +1,4 @@
-# Portfólio de Enzo Lemes
+# Portfólio de Enzo Araújo
 
 Este projeto é um portfólio pessoal desenvolvido em HTML e CSS para apresentar informações sobre Enzo Lemes, seus projetos, trajetória profissional e formas de contato.
 
